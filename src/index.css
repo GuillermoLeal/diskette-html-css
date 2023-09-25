@@ -8,7 +8,7 @@ body {
   background: #684a70;
 }
 
-.disquet {
+.diskette {
   width: 500px;
   height: 500px;
 
@@ -19,7 +19,7 @@ body {
   /* box-shadow: 0 8px 0 0 rgb(0 0 0 / 75%); */
 }
 
-.disquet-top {
+.diskette-top {
   display: flex;
   justify-content: center;
 
@@ -65,7 +65,7 @@ body {
   background-color: #343434;
 }
 
-.disquet-down {
+.diskette-down {
   display: flex;
   height: 60%;
 }
